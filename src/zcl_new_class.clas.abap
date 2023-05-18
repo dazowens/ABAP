@@ -16,5 +16,6 @@ CLASS ZCL_NEW_CLASS IMPLEMENTATION.
 
   method test.
     write 'Hello world!' .
+    write 'test'.
   ENDMETHOD.
 ENDCLASS.
